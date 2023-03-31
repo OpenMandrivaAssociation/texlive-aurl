@@ -1,6 +1,6 @@
 Name:		texlive-aurl
 Version:	41853
-Release:	1
+Release:	2
 Summary:	Extends the hyperref package with a mechanism for hyperlinked URLs abbreviated with prefixes
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/aurl
