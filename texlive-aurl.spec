@@ -3,7 +3,7 @@ Version:	41853
 Release:	2
 Summary:	Extends the hyperref package with a mechanism for hyperlinked URLs abbreviated with prefixes
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/aurl
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/aurl
 License:	pd
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/aurl.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/aurl.doc.r%{version}.tar.xz
